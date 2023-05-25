@@ -314,7 +314,6 @@ nav ul li .is-active{
 .input_info::placeholder{
 	color: #f9004d;
 	top: 0px;
-	position: absolute;
 }
 .end_page{
 	background-color: white;
